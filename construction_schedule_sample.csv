@@ -1,0 +1,16 @@
+S.No,Operation,Duration,Start,End,Progress
+1,Site Survey and Soil Testing,4,03-01-2026,03-05-2026,100%
+2,Design and Planning,6,03-05-2026,03-11-2026,100%
+3,Site Clearance and Leveling,3,03-11-2026,03-14-2026,100%
+4,Foundation Excavation,5,03-14-2026,03-19-2026,90%
+5,Foundation Construction,8,03-19-2026,03-27-2026,75%
+6,Plinth Beam and Column Work,6,03-27-2026,04-02-2026,50%
+7,Superstructure and Slab Work,12,04-02-2026,04-14-2026,30%
+8,Brick Masonry and Wall Construction,7,04-14-2026,04-21-2026,10%
+9,Roofing and Waterproofing,5,04-21-2026,04-26-2026,0%
+10,Door and Window Installation,4,04-26-2026,04-30-2026,0%
+11,Plumbing and Sanitation,5,04-30-2026,05-05-2026,0%
+12,Electrical Wiring and Fittings,5,05-05-2026,05-10-2026,0%
+13,Plastering and Flooring,6,05-10-2026,05-16-2026,0%
+14,Painting and Interior Finishing,5,05-16-2026,05-21-2026,0%
+15,Landscaping and Handover,4,05-21-2026,05-25-2026,0%
